@@ -1,1 +1,2 @@
 An addition from branch 6.
+Another addition from branch 6.
