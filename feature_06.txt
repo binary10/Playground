@@ -1,2 +1,1 @@
 An addition from branch 6.
-What if this changes when there's also a change to it in branch 6?
